@@ -15,7 +15,8 @@ public class HashMapDemo {
 		map.put("gusain", 68 );
 		map.put("sahu", 69);
 		map.put("rock", 70 );
-		map.put("saman", 71);
+		map.put("suman", 71);
+		map.put("manish",10);
 		
 		System.out.println(map);
 		System.out.println(map.entrySet());
